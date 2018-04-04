@@ -2,4 +2,17 @@
 
 ![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/FinalLatex.jpg)
 ![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex2.jpg)
-
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex3.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex4.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex5.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex6.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex7.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex8.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex9.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex10.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex11.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex12.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex13.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex14.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex15.jpg)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/finallatex/FinalLatex16.jpg)
