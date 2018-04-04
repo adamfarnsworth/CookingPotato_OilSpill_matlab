@@ -1,3 +1,3 @@
 # CookingPotato_OilSpill_matlab
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/adamfarnsworth/CookingPotato_OilSpill_matlab/blob/master/FinalLatex/FinalLatex.pdf)
